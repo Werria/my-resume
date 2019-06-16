@@ -1,0 +1,73 @@
+{
+    "title": "Hello I'm Verya!",
+    "subtitle": "App Developer | Open Source Enthusiast | Blogger",
+    "links": { 
+        "github": "https://github.com/Werria",
+        "linkedin": "https://linkedin.com/in/werya/",
+        "dev": "https://dev.to/werya",
+        "medium": "https://medium.com/@werya.heydari"
+    },
+    "sections": [
+        {
+            "title": "About",
+            "items": [
+                {
+                    "type": "p",
+                    "content": "A web Developer with 5+ years of experience in developing dynamic web applications. Proficient in coding and testing, as well as debugging the software for any potential bugs. Expertise in designing, developing, executing, testing, and debugging dynamic web pages or applications as well as performing modifications in existing code to add new features. "
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/react.png",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/javascript.png",
+                        "title": "Javascript"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/html.svg",
+                        "title": "HTML"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/css.png",
+                        "title": "CSS"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/nodejs.png",
+                        "title": "Node.js"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/python.png",
+                        "title": "Python"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons": {
+        "down": "images/down.png",
+        "up": "images/up.png",
+        "magic": "images/magic-wand.svg"
+    }
+}
